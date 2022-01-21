@@ -1,0 +1,215 @@
+[27-Aug-2020 02:18:10 America/Lima] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in /home/idrapex1/public_html/certificados/certificado/php/PgSql.php on line 12
+[27-Aug-2020 02:18:20 America/Lima] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in /home/idrapex1/public_html/certificados/certificado/php/PgSql.php on line 12
+[27-Aug-2020 02:19:26 America/Lima] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in /home/idrapex1/public_html/certificados/certificado/php/PgSql.php on line 12
+[27-Aug-2020 09:55:31 America/Lima] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in /home/idrapex1/public_html/certificados/certificado/php/PgSql.php on line 12
+[03-Sep-2020 01:37:59 America/Lima] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in /home/idrapex1/public_html/certificados/certificado/php/PgSql.php on line 12
+[03-Sep-2020 01:44:00 America/Lima] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in /home/idrapex1/public_html/certificados/php/PgSql.php on line 12
+[03-Sep-2020 01:45:16 America/Lima] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in /home/idrapex1/public_html/certificado/php/PgSql.php on line 12
+[03-Sep-2020 02:16:03 America/Lima] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in /home/idrapex1/public_html/certificado/php/PgSql.php on line 12
+[03-Sep-2020 02:16:11 America/Lima] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in /home/idrapex1/public_html/certificado/php/PgSql.php on line 12
+[03-Sep-2020 02:16:31 America/Lima] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in /home/idrapex1/public_html/certificado/php/PgSql.php on line 12
+[03-Sep-2020 02:17:58 America/Lima] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in /home/idrapex1/public_html/certificado/php/PgSql.php on line 12
+[03-Sep-2020 02:17:59 America/Lima] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in /home/idrapex1/public_html/certificado/php/PgSql.php on line 12
+[03-Sep-2020 02:20:41 America/Lima] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in /home/idrapex1/public_html/certificado/php/PgSql.php on line 12
+[03-Sep-2020 02:30:10 America/Lima] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in /home/idrapex1/public_html/certificado/php/PgSql.php on line 12
+[03-Sep-2020 02:30:10 America/Lima] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in /home/idrapex1/public_html/certificado/php/PgSql.php on line 12
+[03-Sep-2020 02:30:23 America/Lima] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in /home/idrapex1/public_html/certificado/php/PgSql.php on line 12
+[03-Sep-2020 02:31:37 America/Lima] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in /home/idrapex1/public_html/certificado/php/PgSql.php on line 12
+[03-Sep-2020 02:31:50 America/Lima] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in /home/idrapex1/public_html/certificado/php/PgSql.php on line 12
+[03-Sep-2020 02:33:12 America/Lima] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in /home/idrapex1/public_html/certificado/php/PgSql.php on line 12
+[03-Sep-2020 02:33:31 America/Lima] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in /home/idrapex1/public_html/certificado/php/PgSql.php on line 12
+[03-Sep-2020 02:43:16 America/Lima] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in /home/idrapex1/public_html/certificado/php/PgSql.php on line 12
+[03-Sep-2020 11:54:14 America/Lima] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in /home/idrapex1/public_html/certificado/php/PgSql.php on line 12
+[03-Sep-2020 11:54:15 America/Lima] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in /home/idrapex1/public_html/certificado/php/PgSql.php on line 12
+[07-Sep-2020 13:38:41 America/Lima] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in /home/idrapex1/public_html/certificado/php/PgSql.php on line 12
+[07-Sep-2020 13:39:02 America/Lima] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in /home/idrapex1/public_html/certificado/php/PgSql.php on line 12
+[07-Sep-2020 13:39:05 America/Lima] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in /home/idrapex1/public_html/certificado/php/PgSql.php on line 12
+[07-Sep-2020 13:46:24 America/Lima] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in /home/idrapex1/public_html/certificado/php/PgSql.php on line 12
+[07-Sep-2020 13:46:25 America/Lima] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in /home/idrapex1/public_html/certificado/php/PgSql.php on line 12
+[07-Sep-2020 13:47:29 America/Lima] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in /home/idrapex1/public_html/certificado/php/PgSql.php on line 12
+[07-Sep-2020 13:49:50 America/Lima] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in /home/idrapex1/public_html/certificado/php/PgSql.php on line 12
+[07-Sep-2020 13:50:19 America/Lima] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in /home/idrapex1/public_html/certificado/php/PgSql.php on line 12
+[07-Sep-2020 13:51:42 America/Lima] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in /home/idrapex1/public_html/certificado/php/PgSql.php on line 12
+[07-Sep-2020 13:51:47 America/Lima] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in /home/idrapex1/public_html/certificado/php/PgSql.php on line 12
+[07-Sep-2020 13:51:49 America/Lima] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in /home/idrapex1/public_html/certificado/php/PgSql.php on line 12
+[07-Sep-2020 13:51:53 America/Lima] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in /home/idrapex1/public_html/certificado/php/PgSql.php on line 12
+[09-Sep-2020 00:10:20 America/Lima] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in /home/idrapex1/public_html/certificado/php/PgSql.php on line 12
+[12-Sep-2020 22:24:01 America/Lima] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in /home/idrapex1/public_html/certificado/php/PgSql.php on line 12
+[12-Sep-2020 22:24:56 America/Lima] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in /home/idrapex1/public_html/certificado/php/PgSql.php on line 12
+[12-Sep-2020 22:42:41 America/Lima] PHP Warning:  require_once(../php/ws.php): failed to open stream: No such file or directory in /home/idrapex1/public_html/certificado/users/incidentes/index.php on line 3
+[12-Sep-2020 22:42:41 America/Lima] PHP Fatal error:  require_once(): Failed opening required '../php/ws.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/idrapex1/public_html/certificado/users/incidentes/index.php on line 3
+[12-Sep-2020 22:46:03 America/Lima] PHP Warning:  require_once(../php/ws.php): failed to open stream: No such file or directory in /home/idrapex1/public_html/certificado/users/incidentes/index.php on line 3
+[12-Sep-2020 22:46:03 America/Lima] PHP Fatal error:  require_once(): Failed opening required '../php/ws.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/idrapex1/public_html/certificado/users/incidentes/index.php on line 3
+[12-Sep-2020 22:46:31 America/Lima] PHP Warning:  require_once(../php/ws.php): failed to open stream: No such file or directory in /home/idrapex1/public_html/certificado/users/incidentes/index.php on line 3
+[12-Sep-2020 22:46:31 America/Lima] PHP Fatal error:  require_once(): Failed opening required '../php/ws.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/idrapex1/public_html/certificado/users/incidentes/index.php on line 3
+[12-Sep-2020 22:49:20 America/Lima] PHP Warning:  require_once(../php/ws.php): failed to open stream: No such file or directory in /home/idrapex1/public_html/certificado/users/incidentes/index.php on line 3
+[12-Sep-2020 22:49:20 America/Lima] PHP Fatal error:  require_once(): Failed opening required '../php/ws.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/idrapex1/public_html/certificado/users/incidentes/index.php on line 3
+[12-Sep-2020 22:51:20 America/Lima] PHP Warning:  require_once(../php/ws.php): failed to open stream: No such file or directory in /home/idrapex1/public_html/certificado/users/incidentes/index.php on line 3
+[12-Sep-2020 22:51:20 America/Lima] PHP Fatal error:  require_once(): Failed opening required '../php/ws.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/idrapex1/public_html/certificado/users/incidentes/index.php on line 3
+[13-Sep-2020 03:52:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/idrapex1/public_html/certificado/users/menu.php on line 3
+[13-Sep-2020 05:24:45 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/idrapex1/public_html/certificado/users/menu.php on line 3
+[13-Sep-2020 00:25:00 America/Lima] PHP Warning:  require_once(../php/ws.php): failed to open stream: No such file or directory in /home/idrapex1/public_html/certificado/users/incidentes/incidentes.php on line 5
+[13-Sep-2020 00:25:00 America/Lima] PHP Fatal error:  require_once(): Failed opening required '../php/ws.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/idrapex1/public_html/certificado/users/incidentes/incidentes.php on line 5
+[13-Sep-2020 00:25:02 America/Lima] PHP Warning:  require_once(../php/ws.php): failed to open stream: No such file or directory in /home/idrapex1/public_html/certificado/users/incidentes/incidentes.php on line 5
+[13-Sep-2020 00:25:02 America/Lima] PHP Fatal error:  require_once(): Failed opening required '../php/ws.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/idrapex1/public_html/certificado/users/incidentes/incidentes.php on line 5
+[13-Sep-2020 00:26:24 America/Lima] PHP Warning:  require_once(../php/ws.php): failed to open stream: No such file or directory in /home/idrapex1/public_html/certificado/users/incidentes/index.php on line 3
+[13-Sep-2020 00:26:24 America/Lima] PHP Fatal error:  require_once(): Failed opening required '../php/ws.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/idrapex1/public_html/certificado/users/incidentes/index.php on line 3
+[13-Sep-2020 00:27:23 America/Lima] PHP Warning:  require_once(../php/ws.php): failed to open stream: No such file or directory in /home/idrapex1/public_html/certificado/users/incidentes/index.php on line 3
+[13-Sep-2020 00:27:23 America/Lima] PHP Fatal error:  require_once(): Failed opening required '../php/ws.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/idrapex1/public_html/certificado/users/incidentes/index.php on line 3
+[13-Sep-2020 00:29:38 America/Lima] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/idrapex1/public_html/certificado/users/menu.php on line 3
+[13-Sep-2020 00:30:01 America/Lima] PHP Warning:  require_once(../php/ws.php): failed to open stream: No such file or directory in /home/idrapex1/public_html/certificado/users/incidentes/incidentes.php on line 5
+[13-Sep-2020 00:30:01 America/Lima] PHP Fatal error:  require_once(): Failed opening required '../php/ws.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/idrapex1/public_html/certificado/users/incidentes/incidentes.php on line 5
+[13-Sep-2020 00:34:44 America/Lima] PHP Warning:  require_once(/php/ws.php): failed to open stream: No such file or directory in /home/idrapex1/public_html/certificado/users/incidentes/index.php on line 3
+[13-Sep-2020 00:34:44 America/Lima] PHP Fatal error:  require_once(): Failed opening required '/php/ws.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/idrapex1/public_html/certificado/users/incidentes/index.php on line 3
+[13-Sep-2020 00:35:32 America/Lima] PHP Warning:  require_once(php/ws.php): failed to open stream: No such file or directory in /home/idrapex1/public_html/certificado/users/incidentes/index.php on line 3
+[13-Sep-2020 00:35:32 America/Lima] PHP Fatal error:  require_once(): Failed opening required 'php/ws.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/idrapex1/public_html/certificado/users/incidentes/index.php on line 3
+[13-Sep-2020 00:37:19 America/Lima] PHP Warning:  require(mysql.php): failed to open stream: No such file or directory in /home/idrapex1/public_html/certificado/php/ws.php on line 7
+[13-Sep-2020 00:37:19 America/Lima] PHP Warning:  require(mysql.php): failed to open stream: No such file or directory in /home/idrapex1/public_html/certificado/php/ws.php on line 7
+[13-Sep-2020 00:37:19 America/Lima] PHP Fatal error:  require(): Failed opening required 'mysql.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/idrapex1/public_html/certificado/php/ws.php on line 7
+[13-Sep-2020 00:38:20 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined function vardump() in /home/idrapex1/public_html/certificado/users/incidentes/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/idrapex1/public_html/certificado/users/incidentes/index.php on line 3
+[13-Sep-2020 00:38:58 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined function vardump() in /home/idrapex1/public_html/certificado/users/incidentes/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/idrapex1/public_html/certificado/users/incidentes/index.php on line 3
+[13-Sep-2020 00:43:16 America/Lima] PHP Warning:  require(mysql.php): failed to open stream: No such file or directory in /home/idrapex1/public_html/certificado/php/ws.php on line 7
+[13-Sep-2020 00:43:16 America/Lima] PHP Warning:  require(mysql.php): failed to open stream: No such file or directory in /home/idrapex1/public_html/certificado/php/ws.php on line 7
+[13-Sep-2020 00:43:16 America/Lima] PHP Fatal error:  require(): Failed opening required 'mysql.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/idrapex1/public_html/certificado/php/ws.php on line 7
+[13-Sep-2020 21:01:08 America/Lima] PHP Warning:  require(mysql.php): failed to open stream: No such file or directory in /home/idrapex1/public_html/certificado/php/ws.php on line 7
+[13-Sep-2020 21:01:08 America/Lima] PHP Warning:  require(mysql.php): failed to open stream: No such file or directory in /home/idrapex1/public_html/certificado/php/ws.php on line 7
+[13-Sep-2020 21:01:08 America/Lima] PHP Fatal error:  require(): Failed opening required 'mysql.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/idrapex1/public_html/certificado/php/ws.php on line 7
+[13-Sep-2020 21:02:13 America/Lima] PHP Warning:  require(mysql.php): failed to open stream: No such file or directory in /home/idrapex1/public_html/certificado/php/ws.php on line 7
+[13-Sep-2020 21:02:13 America/Lima] PHP Warning:  require(mysql.php): failed to open stream: No such file or directory in /home/idrapex1/public_html/certificado/php/ws.php on line 7
+[13-Sep-2020 21:02:13 America/Lima] PHP Fatal error:  require(): Failed opening required 'mysql.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/idrapex1/public_html/certificado/php/ws.php on line 7
+[13-Sep-2020 21:02:17 America/Lima] PHP Warning:  require(mysql.php): failed to open stream: No such file or directory in /home/idrapex1/public_html/certificado/php/ws.php on line 7
+[13-Sep-2020 21:02:17 America/Lima] PHP Warning:  require(mysql.php): failed to open stream: No such file or directory in /home/idrapex1/public_html/certificado/php/ws.php on line 7
+[13-Sep-2020 21:02:17 America/Lima] PHP Fatal error:  require(): Failed opening required 'mysql.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/idrapex1/public_html/certificado/php/ws.php on line 7
+[13-Sep-2020 21:05:18 America/Lima] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/idrapex1/public_html/certificado/users/menu.php on line 3
+[13-Sep-2020 21:08:51 America/Lima] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/idrapex1/public_html/certificado/users/menu.php on line 3
+[14-Sep-2020 02:08:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function infophp() in /home/idrapex1/public_html/certificado/users/incidentes/info.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/idrapex1/public_html/certificado/users/incidentes/info.php on line 2
+[13-Sep-2020 21:13:16 America/Lima] PHP Warning:  require(mysql.php): failed to open stream: No such file or directory in /home/idrapex1/public_html/certificado/php/ws.php on line 7
+[13-Sep-2020 21:13:16 America/Lima] PHP Warning:  require(mysql.php): failed to open stream: No such file or directory in /home/idrapex1/public_html/certificado/php/ws.php on line 7
+[13-Sep-2020 21:13:16 America/Lima] PHP Fatal error:  require(): Failed opening required 'mysql.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/idrapex1/public_html/certificado/php/ws.php on line 7
+[13-Sep-2020 21:13:20 America/Lima] PHP Warning:  require(mysql.php): failed to open stream: No such file or directory in /home/idrapex1/public_html/certificado/php/ws.php on line 7
+[13-Sep-2020 21:13:20 America/Lima] PHP Warning:  require(mysql.php): failed to open stream: No such file or directory in /home/idrapex1/public_html/certificado/php/ws.php on line 7
+[13-Sep-2020 21:13:20 America/Lima] PHP Fatal error:  require(): Failed opening required 'mysql.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/idrapex1/public_html/certificado/php/ws.php on line 7
+[13-Sep-2020 21:14:11 America/Lima] PHP Warning:  require_once(public_html/certificado/php/ws.php): failed to open stream: No such file or directory in /home/idrapex1/public_html/certificado/users/incidentes/index.php on line 4
+[13-Sep-2020 21:14:11 America/Lima] PHP Fatal error:  require_once(): Failed opening required 'public_html/certificado/php/ws.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/idrapex1/public_html/certificado/users/incidentes/index.php on line 4
+[13-Sep-2020 21:14:33 America/Lima] PHP Warning:  require_once(../../../php/ws.php): failed to open stream: No such file or directory in /home/idrapex1/public_html/certificado/users/incidentes/index.php on line 4
+[13-Sep-2020 21:14:33 America/Lima] PHP Fatal error:  require_once(): Failed opening required '../../../php/ws.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/idrapex1/public_html/certificado/users/incidentes/index.php on line 4
+[13-Sep-2020 21:16:00 America/Lima] PHP Warning:  require_once(../../../php/ws.php): failed to open stream: No such file or directory in /home/idrapex1/public_html/certificado/users/incidentes/index.php on line 4
+[13-Sep-2020 21:16:00 America/Lima] PHP Fatal error:  require_once(): Failed opening required '../../../php/ws.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/idrapex1/public_html/certificado/users/incidentes/index.php on line 4
+[13-Sep-2020 21:21:44 America/Lima] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/idrapex1/public_html/certificado/users/incidentes/index.php on line 3
+[13-Sep-2020 21:21:44 America/Lima] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/idrapex1/public_html/certificado/users/menu.php on line 3
+[13-Sep-2020 21:21:47 America/Lima] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/idrapex1/public_html/certificado/users/incidentes/index.php on line 3
+[13-Sep-2020 21:21:47 America/Lima] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/idrapex1/public_html/certificado/users/menu.php on line 3
+[13-Sep-2020 21:22:32 America/Lima] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/idrapex1/public_html/certificado/users/menu.php on line 3
+[13-Sep-2020 21:23:32 America/Lima] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/idrapex1/public_html/certificado/users/menu.php on line 3
+[13-Sep-2020 21:24:58 America/Lima] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/idrapex1/public_html/certificado/php/ws.php on line 3
+[13-Sep-2020 21:24:58 America/Lima] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/idrapex1/public_html/certificado/users/menu.php on line 3
+[13-Sep-2020 21:25:06 America/Lima] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/idrapex1/public_html/certificado/php/ws.php on line 3
+[13-Sep-2020 21:25:06 America/Lima] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/idrapex1/public_html/certificado/users/menu.php on line 3
+[13-Sep-2020 21:25:10 America/Lima] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/idrapex1/public_html/certificado/php/ws.php on line 3
+[13-Sep-2020 21:25:10 America/Lima] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/idrapex1/public_html/certificado/users/menu.php on line 3
+[13-Sep-2020 21:25:34 America/Lima] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/idrapex1/public_html/certificado/php/ws.php on line 3
+[13-Sep-2020 21:25:34 America/Lima] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/idrapex1/public_html/certificado/users/menu.php on line 3
+[13-Sep-2020 21:25:56 America/Lima] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/idrapex1/public_html/certificado/php/ws.php on line 3
+[13-Sep-2020 21:25:56 America/Lima] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/idrapex1/public_html/certificado/users/menu.php on line 3
+[13-Sep-2020 21:26:38 America/Lima] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/idrapex1/public_html/certificado/php/MySql.php on line 39
+[13-Sep-2020 21:26:51 America/Lima] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/idrapex1/public_html/certificado/php/MySql.php on line 39
+[13-Sep-2020 21:33:41 America/Lima] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/idrapex1/public_html/certificado/php/MySql.php on line 39
+[13-Sep-2020 21:37:12 America/Lima] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/idrapex1/public_html/certificado/php/MySql.php on line 39
+[13-Sep-2020 21:37:39 America/Lima] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/idrapex1/public_html/certificado/php/MySql.php on line 39
+[13-Sep-2020 21:39:26 America/Lima] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/idrapex1/public_html/certificado/php/MySql.php on line 39
+[13-Sep-2020 22:33:14 America/Lima] PHP Warning:  require(class/NotificaController.php): failed to open stream: No such file or directory in /home/idrapex1/public_html/certificado/php/ws.php on line 11
+[13-Sep-2020 22:33:14 America/Lima] PHP Warning:  require(class/NotificaController.php): failed to open stream: No such file or directory in /home/idrapex1/public_html/certificado/php/ws.php on line 11
+[13-Sep-2020 22:33:14 America/Lima] PHP Fatal error:  require(): Failed opening required 'class/NotificaController.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/idrapex1/public_html/certificado/php/ws.php on line 11
+[13-Sep-2020 22:33:24 America/Lima] PHP Warning:  require(class/NotificaController.php): failed to open stream: No such file or directory in /home/idrapex1/public_html/certificado/php/ws.php on line 11
+[13-Sep-2020 22:33:24 America/Lima] PHP Warning:  require(class/NotificaController.php): failed to open stream: No such file or directory in /home/idrapex1/public_html/certificado/php/ws.php on line 11
+[13-Sep-2020 22:33:24 America/Lima] PHP Fatal error:  require(): Failed opening required 'class/NotificaController.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/idrapex1/public_html/certificado/php/ws.php on line 11
+[14-Sep-2020 00:31:40 America/Lima] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/idrapex1/public_html/certificado/php/MySql.php on line 39
+[14-Sep-2020 00:31:49 America/Lima] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/idrapex1/public_html/certificado/php/MySql.php on line 39
+[14-Sep-2020 00:31:50 America/Lima] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/idrapex1/public_html/certificado/php/MySql.php on line 39
+[14-Sep-2020 05:39:08 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/idrapex1/public_html/certificado/php/PgSql.php on line 21
+[14-Sep-2020 05:39:27 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/idrapex1/public_html/certificado/php/PgSql.php on line 21
