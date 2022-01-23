@@ -1,5 +1,5 @@
 <?php
-// $host   = 'localhost' || 'idra.pe';
+// $host   = 'localhost';
 // $port   = '3306';
 // $dbname = 'testing';
 // $user   = 'root';
