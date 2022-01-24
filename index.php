@@ -1,11 +1,11 @@
 <?php
 
-$connect = new PDO("mysql:host=localhost;dbname=idrapex1_time", "idrapex1_time", "1a2b3c++2022");
+// $connect = new PDO("mysql:host=localhost;dbname=idrapex1_time", "idrapex1_time", "1a2b3c++2022");
 
-$query = "SELECT * FROM timeline ORDER BY id ASC";
-$statement = $connect->prepare($query);
-$statement->execute();
-$result = $statement->fetchAll();
+// $query = "SELECT * FROM timeline ORDER BY id ASC";
+// $statement = $connect->prepare($query);
+// $statement->execute();
+// $result = $statement->fetchAll();
 $webconfig = include("webconfig.php");
 require_once($webconfig['path_ws']);
 
