@@ -6,7 +6,7 @@
 // $passwd = 'root';
 ?>
 <?php
-$host   = 'idra.pe';
+$host   = 'localhost';
 $port   = '3306';
 $dbname = 'idrapex1_time';
 $user   = 'idrapex1_time';
